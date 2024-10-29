@@ -19,8 +19,8 @@ mobile_app2
 <strong>Задание № 18: Использование оператора const для создания неизменяемых объектов</strong>![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/18.png)
 <strong>Задание № 19: Использование операторов final для создания неизменяемых свойств</strong>![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/19.png)
 <strong>Задание № 20: Использование оператора assert для проверки условий</strong>![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/20.png)
-<b><strong>Задание № 1: простой калькулятор</strong></b>![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/1.1.png) ![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/1.2.png)
-<b><strong>Задание № 2: книжная полка</strong></b>![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/2.1.png) ![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/2.2.png)
+<b><strong>Задание № 1: простой калькулятор</strong></b><b>![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/1.1.png)</b> <b>![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/1.2.png)</b>
+<b><strong>Задание № 2: книжная полка</strong></b><b>![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/2.1.png)</b> <b>![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/2.2.png)</b>
 <b><strong>Задание № 3: список задач</strong></b>![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/3.1.png) ![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/3.2.png)
 <b><strong>Задание № 4: банковский счет</strong></b>![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/4.1.png) ![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/4.2.png)
 <b><strong>Задание № 5: игра угадай число</strong></b>![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/5.1.png) ![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/5.2.png)
